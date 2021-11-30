@@ -13,17 +13,24 @@ color: #E0E0E0;
 
 /* Középső hasáb */
 #container {
+	width: 600px;
+	margin: auto;
+	background-color: #5c6b7b;
+	padding: 0 20px 0 20px;
 
 }
 
 /* Fejléc */
+#header{
+	margin-bottom: 10px;
+}
 #header img {
 	display: block;
 }
 
 
 /* Navigációs sáv */
-#nav {
+#nav {margin-bottom: 10px
 
 }
 
@@ -50,12 +57,12 @@ color: #E0E0E0;
 }
 
 /* Tartalom */
-#content {
+#content {margin-bottom: 10px
 
 }
 
 /*Lábléc  */
-#footer {
+#footer {margin-bottom: 10px
 
 }
 
