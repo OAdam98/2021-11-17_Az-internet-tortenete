@@ -3,12 +3,13 @@ body {
 	background-color: #E0E0E0;
 }
 
-p {
+p {}
 
-}
-
-a, a:link, a:visited, a:active {
-color: #E0E0E0;
+a,
+a:link,
+a:visited,
+a:active {
+	color: #666584;
 }
 
 /* Középső hasáb */
@@ -21,9 +22,10 @@ color: #E0E0E0;
 }
 
 /* Fejléc */
-#header{
+#header {
 	margin-bottom: 10px;
 }
+
 #header img {
 	display: block;
 }
@@ -33,21 +35,17 @@ color: #E0E0E0;
 #nav {
 	margin-bottom: 10px;
 	background-color: #CDDBEB;
-	
-
-  
-
 }
 
 #nav ul {
-    overflow: hidden;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+	overflow: hidden;
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
 
 #nav li {
-    float: left;
+	float: left;
 }
 
 #nav a {
@@ -58,16 +56,17 @@ color: #E0E0E0;
 }
 
 #nav a:hover {
-background-color: #B1B7DF;
+	background-color: #B1B7DF;
 }
 
 /* Tartalom */
-#content {margin-bottom: 10px
-
+#content {
+	margin-bottom: 10px;
 }
 
 /*Lábléc  */
-#footer {margin-bottom: 10px
+#footer {
+	margin-bottom: 10px;
 
 }
 
@@ -80,6 +79,4 @@ background-color: #B1B7DF;
 	float: right;
 }
 
-.active {
-
-}
+.active {}
