@@ -49,6 +49,8 @@ a:active {
 }
 
 #nav a {
+	width: 150px;
+	text-align: center;
 	display: block;
 	text-decoration: none;
 	padding: 0.5em 0;
