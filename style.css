@@ -30,7 +30,11 @@ color: #E0E0E0;
 
 
 /* Navigációs sáv */
-#nav {margin-bottom: 10px
+#nav {
+	margin-bottom: 10px;
+	background-color: #CDDBEB;
+	
+
   
 
 }
@@ -54,7 +58,7 @@ color: #E0E0E0;
 }
 
 #nav a:hover {
-
+background-color: #B1B7DF;
 }
 
 /* Tartalom */
